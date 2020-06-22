@@ -1,0 +1,25 @@
+P {
+font-family: Times New Roman, serif; 
+font-size: 18pt; 
+color: #000000; 
+margin-left: 8%; 
+margin-right: 5%; 
+margin-top: 1pt; 
+margin-bottom: 1pt;
+text-indent: 1cm; 
+text-align: justify;
+}
+
+H2 {
+font-family: Verdana, Arial Cyr, Arial;
+font-weight: bold;
+font-size: 24pt; 
+color: black;
+margin-left: 20%; 
+margin-top: 1cm; 
+text-align: left;
+}
+
+A {
+color: white;
+}
